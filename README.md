@@ -2418,6 +2418,7 @@ _Handling of user events (scroll, click, key strike, ...)_
 - [vue-form-container](https://github.com/VitorLuizC/vue-form-container) - A `Provider Component` that encapsulate your forms and handle their states and validations.
 - [ps-validation](https://github.com/PrimitiveSocial/ps-validation) - A Vue plugin that provides out-of-the-box data validation rules, very much inspired from Laravel validation system.
 - [vue-laravel-errors](https://github.com/Sohaib-Sherif/vue-laravel-errors) - A Vue.JS plugin that adds a global mixin which can be used to fill an errors variable from a laravel error response and display it as an object or array, can also be used as a local mixin.
+- [validue](https://github.com/sployad/validue) - This library is based on the "class-validator" library. It will help you easily validate your fields, forms and etc.. All you need to use is @PropertyValidator , @ErrorValidator, @ActionValidator decorators, and all decorators from “class validator” such as @Max, @IsEmail and etc..
 
 #### Resize
 
